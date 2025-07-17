@@ -1,0 +1,66 @@
+button{
+    height: 50px;
+    width: 60px;
+    border: none;
+    border-radius: 10px;
+}
+
+.nN{
+    font-family: arial;
+    font-weight: bold;
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.nN:hover{
+    font-family: arial;
+    font-weight: bold;
+    background-color: #A9A9A9;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+
+body{
+    background-color: black;
+}
+
+
+.nO{
+    font-family: arial;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.nO:hover{
+    font-family: arial;
+    font-weight: bold;
+    background-color: #90EE90;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.botoes{
+    text-align: center;
+}
+.display {
+    background: #000;
+    color: #0f0;
+    font-size: 2em;
+    padding: 10px;
+    text-align: right;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.tela{
+    margin-top: 8%;
+}
